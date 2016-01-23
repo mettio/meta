@@ -1,0 +1,14 @@
+{
+    "name": "mett/meta",
+    "description": "Meta Ressource Repository",
+    "type": "metadata",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 License",
+    "authors": [
+        {
+            "name": "Jo Brunner",
+            "email": "jo.brunner@mayflower.de"
+        }
+    ],
+    "require": {}
+}
+
